@@ -17,7 +17,8 @@ module.exports={
       cleanOnceBeforeBuildPatterns:['./dist']
     }),
     new HtmlWebpackPlugin({
-      title:'app'
+      title:'app',
+      template:'src/template/h5_header.html'
     })
   ]
 }

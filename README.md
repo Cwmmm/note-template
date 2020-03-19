@@ -1,1 +1,4 @@
-笔记源码模板 version: 0.01
+## a simple webpack template
+  * 打包
+  * 调试
+  * 指定模板

@@ -1,7 +1,7 @@
 {
   "name": "client_side",
   "version": "1.0.0",
-  "description": "JS常用的数组操作demo",
+  "description": "一个简单的webpack模板",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
